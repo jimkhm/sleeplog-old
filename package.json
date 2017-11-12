@@ -1,0 +1,13 @@
+{
+  "name": "sleeplog",
+  "version": "1.0.0",
+  "description": "I want to log my sleep time",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jim",
+  "license": "ISC"
+}
