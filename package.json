@@ -4,6 +4,7 @@
   "description": "I want to log my sleep time",
   "main": "index.js",
   "dependencies": {
+    "babel-core": "^6.26.0",
     "express": "^4.16.2",
     "webpack": "^3.8.1"
   },
